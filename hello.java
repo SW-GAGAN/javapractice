@@ -1,4 +1,3 @@
-
 public class hello
 {
 	public static void main(String[] args)
@@ -10,7 +9,12 @@ public class hello
 			System.out.println("Employee is Present");
 		else
 			 System.out.println("Employee is Absent");
-	}
+			int wagePerHour = 20;
+                int fullDayHour = 8;
+                int dailyWage = 0;	
 }
+}
+
+
 
 
