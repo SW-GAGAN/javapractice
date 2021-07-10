@@ -11,7 +11,8 @@ public class hello
 			 System.out.println("Employee is Absent");
 			int wagePerHour = 20;
                 int fullDayHour = 8;
-                int dailyWage = 0;	
+                int dailyWage = 0;
+		 System.out.println(" hello uc3");	
 }
 }
 
